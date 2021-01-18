@@ -18,7 +18,7 @@ function getElement(productTitle){
     span.style.marginTop = "4px";
     span.style.position = "absolute";
 
-    var text = document.createTextNode("Youtube Reviews");
+    var text = document.createTextNode("YouTube Reviews");
 
     div.appendChild(img);
     span.appendChild(text);
