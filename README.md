@@ -1,7 +1,9 @@
-# Youtube product reviews plugin
+# YouTube product reviews plugin
 
-This is a simple yet very useful chrome plugin for people that frequently buy online. 
-Every time you open a product page in one of the supported online stores it links the product title with reviews on youtube and displays a youtube button on the page, that way you can easily click and access relevant youtube reviews.
+This Chrome plugin is super useful if you shop online frequently.
+
+Whenever you open a product page, a YouTube Reviews button will appear when you have this extension installed. You can click the button which it will take you to a YouTube search page.
+
 
 ![Example on amazon](amazon.png)
 
@@ -11,19 +13,19 @@ Every time you open a product page in one of the supported online stores it link
 
 * 1 - Clone this repository
 * 2 - Navigate to chrome://extensions
-* 3 - Click on Load unpacked and select the repo folder
+* 3 - Click on "Load unpacked" and select the repository folder
 
 
 # Supported online stores
 
-* amazon
-* thomann
-* musicstore
-* ebay
-* etsy
-* royalqueenseeds
-* alibaba
+* Amazon
+* Thomann
+* MUSIC STORE
+* eBay
+* Etsy
+* Royalqueenseeds
+* Alibaba
 
 # Contribute
 
-Fixing bugs, adding new stores or features. Everything is welcome.
+Fixing bugs, adding new stores or features are all welcome.
