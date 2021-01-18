@@ -9,7 +9,7 @@ function getElement(productTitle){
     };
 
     var img = document.createElement('img');
-    img.src = chrome.extension.getURL('youtube.png');
+    img.src = chrome.extension.getURL('youtube_192dp.png');
     img.style.width = "40px";
     img.style.display = "inline";
 
