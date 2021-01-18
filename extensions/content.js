@@ -4,13 +4,18 @@ function getElement(productTitle){
     var div = document.createElement('div');
     div.style.cursor = "pointer";
     div.style.padding = "0px 0px 5px";
+    div.style.padding = "8px 12px";
+    div.style.borderRadius = "8px";
+    div.style.backgroundColor = "#f0f0f0";
+    div.style.border = "1px solid #999999";
+    div.style.width = "174px";
     div.onclick = function() {
         window.open(youtubeUrl)
     };
 
     var img = document.createElement('img');
     img.src = chrome.extension.getURL('youtube_192dp.png');
-    img.style.width = "40px";
+    img.style.width = "25px";
     img.style.display = "inline";
 
     var span = document.createElement('span');
